@@ -38,8 +38,3 @@ project-business/
 4. Add CI/CD workflows.
 5. Deploy to Kubernetes.
 
-## Next Milestone
-
-- Implement product CRUD endpoints.
-- Add DB migration scripts for PostgreSQL.
-- Add unit tests for service layer.

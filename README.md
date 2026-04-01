@@ -30,7 +30,7 @@ project-business/
   docs/
 ```
 
-## Getting Started
+#### Getting Started
 
 1. Install Go 1.22+ and Docker.
 2. Start with `product-service` CRUD implementation.
